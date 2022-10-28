@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basamserad
 - 👀 I’m interested in web deveplopment both front-end and back-end
-- 🌱 I’m currently learning Quasar, Typescript, Node.js, and Nest.js
+- 🌱 I’m currently learning Quasar, Typescript, Vuejs, Reactjs, Node.js, and Nest.js
 - 💞️ I’m looking to collaborate on developing web app
 - 📫 How to reach me basamserad1223@gmai.com
 
