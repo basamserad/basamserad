@@ -11,7 +11,7 @@
   I'm a Enthusiastic Software Engineer!!
 </h2>
 
-- 🔭 I’m currently learning **Gophers**
+- 🔭 I’m currently **Gophers**
 - 🌱 I’m currently learning **Python, Quasar, Typescript, Vuejs, Reactjs, Node.js, and Nest.js**
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about **Web3**
