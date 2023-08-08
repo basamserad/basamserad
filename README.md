@@ -8,11 +8,11 @@
 </h1>
 
 <h2 align="center">
-  I'm a Enthusiastic Front-end and Back-end Web Developer!!
+  I'm a Enthusiastic Software Engineer!!
 </h2>
 
-- 🔭 I’m currently learning **Mern**
-- 🌱 I’m currently learning **Quasar, Typescript, Vuejs, Reactjs, Node.js, and Nest.js**
+- 🔭 I’m currently learning **Gophers**
+- 🌱 I’m currently learning **Python, Quasar, Typescript, Vuejs, Reactjs, Node.js, and Nest.js**
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about **Web3**
 - ⚡ Fun fact: **I love to reading novel and coding**
