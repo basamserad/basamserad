@@ -1,4 +1,3 @@
-
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <br/>
@@ -24,6 +23,7 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/basam-serad-19599823a/"><img src="https://img.icons8.com/fluent/35/000000/linkedin.png"/></a>
@@ -35,8 +35,8 @@
 
 <br />
 
-
 ### Languages and Tools:
+
 <br />
 <p align="left"> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
@@ -53,7 +53,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="php" width="40" height="40"/> </a>
 
 </p>
 
@@ -74,13 +74,11 @@
 
   <br/>
     <a href="https://github.com/basamserad/github-readme-stats"><img alt="basamserad Github Stats" src="https://github-readme-stats.vercel.app/api?username=basamserad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 
-
 
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=basamserad&bg_color=0d2436&color=4c959e&line=66edff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=basamserad&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
