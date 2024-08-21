@@ -1,20 +1,32 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<br/>
+
 <h1 align="center">
- Hi there, I'm Basam C. Serad 👋 
+  Hi there, I'm <span style="color: #6c63ff;">Basam C. Serad</span> 👋 
 </h1>
 
-<h2 align="center">
-  Passionate Software Engineer (Backend Developer)
-</h2>
+<h3 align="center">
+  <em>Passionate Software Engineer (Backend Developer)</em>
+</h3>
 
 <p align="center">
-  With 1 year and 7 months of experience in backend development, I specialize in creating robust and scalable applications. My expertise lies in GoLang, PostgreSQL, Redis, Kafka, and REST APIs, with a strong focus on microservices architecture. I have a proven track record of delivering high-quality software by designing and implementing features, debugging code, and optimizing performance. Additionally, I excel at leading development teams, conducting code reviews, and collaborating with front-end teams to ensure seamless API integration across various projects.
+  With <strong>1 year and 7 months</strong> of experience in backend development, I specialize in creating <strong>robust</strong> and <strong>scalable</strong> applications. My expertise lies in <span style="color: #6c63ff;">GoLang</span>, <span style="color: #6c63ff;">PostgreSQL</span>, <span style="color: #6c63ff;">Redis</span>, <span style="color: #6c63ff;">Kafka</span>, and <span style="color: #6c63ff;">REST APIs</span>, with a strong focus on <em>microservices architecture</em>. I am dedicated to delivering high-quality software by designing and implementing features, debugging code, and optimizing performance. I also excel in leading development teams, conducting code reviews, and collaborating with front-end teams to ensure seamless API integration across various projects.
 </p>
 
-- 🔭 I’m currently working with **GoLang, PostgreSQL, Redis, Kafka, and REST APIs**
-- 🌱 I’m currently learning **Python, Quasar, TypeScript, Vue.js, React.js, Node.js, and Nest.js**
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Enhance my skills in **Microservices and Distributed Systems**
-- ⚡ Fun fact: **I love reading novels and coding**
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+  🔭 I’m currently working with <strong><span style="color: #6c63ff;">GoLang</span>, <span style="color: #6c63ff;">PostgreSQL</span>, <span style="color: #6c63ff;">Redis</span>, <span style="color: #6c63ff;">Kafka</span>, and <span style="color: #6c63ff;">REST APIs</span></strong><br>
+  🌱 I’m currently learning <strong><span style="color: #6c63ff;">Python</span>, <span style="color: #6c63ff;">Quasar</span>, <span style="color: #6c63ff;">TypeScript</span>, <span style="color: #6c63ff;">Vue.js</span>, <span style="color: #6c63ff;">React.js</span>, <span style="color: #6c63ff;">Node.js</span>, and <span style="color: #6c63ff;">Nest.js</span></strong><br>
+  👯 I’m looking to collaborate with other content creators<br>
+  🥅 2024 Goals: Enhance my skills in <strong><span style="color: #6c63ff;">Microservices and Distributed Systems</span></strong><br>
+  ⚡ Fun fact: I love <strong><span style="color: #6c63ff;">reading novels</span></strong> and <strong><span style="color: #6c63ff;">coding</span></strong>
+</p>
 
 <br />
 
