@@ -1,20 +1,20 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<br/>
-
 <h1 align="center">
  Hi there, I'm Basam C. Serad 👋 
 </h1>
 
 <h2 align="center">
-  I'm a Enthusiastic Software Engineer!!
+  Passionate Software Engineer (Backend Developer)
 </h2>
 
-- 🔭 I’m currently **Gophers**
-- 🌱 I’m currently learning **Python, Quasar, Typescript, Vuejs, Reactjs, Node.js, and Nest.js**
+<p align="center">
+  With 1 year and 7 months of experience in backend development, I specialize in creating robust and scalable applications. My expertise lies in GoLang, PostgreSQL, Redis, Kafka, and REST APIs, with a strong focus on microservices architecture. I have a proven track record of delivering high-quality software by designing and implementing features, debugging code, and optimizing performance. Additionally, I excel at leading development teams, conducting code reviews, and collaborating with front-end teams to ensure seamless API integration across various projects.
+</p>
+
+- 🔭 I’m currently working with **GoLang, PostgreSQL, Redis, Kafka, and REST APIs**
+- 🌱 I’m currently learning **Python, Quasar, TypeScript, Vue.js, React.js, Node.js, and Nest.js**
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about **Web3**
-- ⚡ Fun fact: **I love to reading novel and coding**
+- 🥅 2024 Goals: Enhance my skills in **Microservices and Distributed Systems**
+- ⚡ Fun fact: **I love reading novels and coding**
 
 <br />
 
