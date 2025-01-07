@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  With <strong>1 year and 7 months</strong> of experience in backend development, I specialize in creating <strong>robust</strong> and <strong>scalable</strong> applications. My expertise lies in <span style="color: #6c63ff;">GoLang</span>, <span style="color: #6c63ff;">PostgreSQL</span>, <span style="color: #6c63ff;">Redis</span>, <span style="color: #6c63ff;">Kafka</span>, and <span style="color: #6c63ff;">REST APIs</span>, with a strong focus on <em>microservices architecture</em>. I am dedicated to delivering high-quality software by designing and implementing features, debugging code, and optimizing performance. I also excel in leading development teams, conducting code reviews, and collaborating with front-end teams to ensure seamless API integration across various projects.
+  With experienced in backend development, I specialize in creating <strong>robust</strong> and <strong>scalable</strong> applications. My expertise lies in <span style="color: #6c63ff;">GoLang</span>, <span style="color: #6c63ff;">PostgreSQL</span>, <span style="color: #6c63ff;">Redis</span>, <span style="color: #6c63ff;">Kafka</span>, and <span style="color: #6c63ff;">REST APIs</span>, with a strong focus on <em>microservices architecture</em>. I am dedicated to delivering high-quality software by designing and implementing features, debugging code, and optimizing performance. I also excel in leading development teams, conducting code reviews, and collaborating with front-end teams to ensure seamless API integration across various projects.
 </p>
 
 <br/>
